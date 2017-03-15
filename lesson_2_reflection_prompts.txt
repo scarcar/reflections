@@ -20,10 +20,14 @@ organized? How would branches help?
 use branch when you go onto a tangent, when you want to try an experiment and not break the master branch.
 
 
-How do the diagrams help you visualize the branch structure?
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+
+How do the diagrams help you visualize the branch structure?
+they give you overview of entire repository.  log history.  figure out if there are any unreachable branches or commits.
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 What are the pros and cons of Git automatic merging vs. always doing merges
 manually?
