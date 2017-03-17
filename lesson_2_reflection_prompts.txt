@@ -28,6 +28,11 @@ they give you overview of entire repository.  log history.  figure out if there 
 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+adds the changes from a branch to the master.  it is a combination of both branches.
+
 
 What are the pros and cons of Git automatic merging vs. always doing merges
 manually?
+pros - save time
+cons - can cause conflicts, need to be careful
+
